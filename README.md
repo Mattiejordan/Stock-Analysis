@@ -30,9 +30,6 @@ By assisting financial advisor, Steve, we can help make the best suggestions for
 ![VBA_Challenge_2018](Resources/VBA_Challenge_2018.PNG)
 
 
+There are a couple pros and cons of refactoring code. In this situation I would say there is an advantage for refactoring to enhance running script times for analyses. In a larger data set I would assume this advantage could be more significant. On the whole, refactoring has its advantages in the field for the very pliable reusablity factor. Whole data sets can change but codes can simply be set to run over and over throughout the changes. This is a great advantage for those working with similar queries on a regular basis. The downside may be the incredible ease in which codes can be tampered with and broken. Without sunstantial commentary throughout the work process the tiniest detail edit can halt all progress. 
 
-Overview of Project: Explain the purpose of this analysis.
-Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
-Summary: In a summary statement, address the following questions.
-What are the advantages or disadvantages of refactoring code?
-How do these pros and cons apply to refactoring the original VBA script?
+##### Steve, my friend I may suggest some diversification of your parent's stock portfolio. If they prefer to place their money on personal favorites it may greatly improve the health of their financial future to drop their *hot eats and cool treats* DQ and strap on their tennis shoes and RUN to greater heights. 
